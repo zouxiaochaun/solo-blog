@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Thread中的几个interrupt方法](http://www.zousanchuan.com/articles/2019/09/18/1568780784540.html)
+* [jdk native方法 源码查看方法](http://www.zousanchuan.com/articles/2019/09/17/1568715638871.html)
 * [Future](http://www.zousanchuan.com/articles/2019/09/15/1568529718548.html)
 * [ThreadPoolExecutor(线程池)源码学习](http://www.zousanchuan.com/articles/2019/09/14/1568439289930.html)
 

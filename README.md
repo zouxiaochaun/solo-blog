@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Linux 常用命令](http://www.zousanchuan.com/articles/2019/09/21/1569067352530.html)
 * [Thread中的几个interrupt方法](http://www.zousanchuan.com/articles/2019/09/18/1568780784540.html)
 * [jdk native方法 源码查看方法](http://www.zousanchuan.com/articles/2019/09/17/1568715638871.html)
 * [Future](http://www.zousanchuan.com/articles/2019/09/15/1568529718548.html)

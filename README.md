@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [ReentrantLock(可重入锁) 原理解析](http://www.zousanchuan.com/articles/2019/09/27/1569556049243.html)
 * [线程的5种状态详解[转]](http://www.zousanchuan.com/articles/2019/09/22/1569138726125.html)
 * [Linux 常用命令](http://www.zousanchuan.com/articles/2019/09/21/1569067352530.html)
 * [Thread 主要代码笔记](http://www.zousanchuan.com/articles/2019/09/18/1568780784540.html)

@@ -10,7 +10,9 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.zousanchuan.com/my-github-repos)
+* [基于ReentrantLock和 Condition 的生产者消费者模型](http://www.zousanchuan.com/articles/2019/10/30/1572405375653.html)
+* [ConcurrentHashMap 源码笔记](http://www.zousanchuan.com/articles/2019/10/29/1572340875630.html)
+* [AbstractQueuedSynchronizer(AQS) 源码学习笔记](http://www.zousanchuan.com/articles/2019/10/29/1572332519063.html)
 * [线程的5种状态详解[转]](http://www.zousanchuan.com/articles/2019/09/22/1569138726125.html)
 * [Linux 常用命令](http://www.zousanchuan.com/articles/2019/09/21/1569067352530.html)
 * [Thread 主要代码笔记](http://www.zousanchuan.com/articles/2019/09/18/1568780784540.html)
